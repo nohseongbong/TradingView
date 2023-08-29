@@ -1,5 +1,7 @@
 # TradingView
 
+# 프로젝트 소개
+### React Native 에서 TradingView Library를 사용하기 위한 테스트 프로젝트
 
 # TradingView 라이브러이 ReactNative 세팅 방법
 
